@@ -2,4 +2,4 @@
 
 (./image/main.png)
 (./image/blog.png)
-(./image/edit.png)
+(./image/edit.png): https://github.com/jbt/markdown-editor
